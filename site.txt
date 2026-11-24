@@ -1,0 +1,5 @@
+Site do Dashboard Surf Radar:
+https://surf-dashboard.onrender.com/
+
+Repositório do trabalho no GitHub:
+https://github.com/Efraimlg/SurfRadar-Cloud-AV2
